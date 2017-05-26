@@ -6,7 +6,7 @@ export default () => {
 
             <div className="container-fluid">
                 <div className="navbar-header">
-                    <Link className="navbar-brand" tp="/">Red Dice</Link>
+                    <Link className="navbar-brand" to="/">Red Dice</Link>
                 </div>
 
                 <div className="collapse navbar-collapse">
